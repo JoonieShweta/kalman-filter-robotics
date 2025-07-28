@@ -35,12 +35,11 @@ Sample image of results below:
 
 
 📦 Files in This Repo
-File	What it does
-taxi_kalman_filter.py	Python script with Kalman code
-Kalman_filter_sim.ipynb	Notebook with step-by-step example
+File	What it does 
+Kalman_filter_sim.ipynb	-> Notebook with step-by-step example
 1.txt	-> Real GPS data of a Beijing taxi
 filtered_output.png -> Output image of filtered GPS path
-README.md	You're reading it!
+README.md	-> You're reading it!
 
 
 🛠 Tools Used
